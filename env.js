@@ -36,8 +36,8 @@ require('dotenv').config({
 const BUNDLE_ID = 'com.join'; // ios bundle id
 const PACKAGE = 'com.join'; // android package name
 const NAME = 'join'; // app name
-const EXPO_ACCOUNT_OWNER = 'expo-owner'; // expo account owner
-const EAS_PROJECT_ID = 'c3e1075b-6fe7-4686-aa49-35b46a229044'; // eas project id
+const EXPO_ACCOUNT_OWNER = 'orixon'; // expo account owner
+const EAS_PROJECT_ID = '121ebe20-1c62-401a-b16a-bef427a83b1b'; // eas project id
 const SCHEME = 'join'; // app scheme
 
 /**

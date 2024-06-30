@@ -1,4 +1,4 @@
-package com.join.development
+package com.join
 
 import android.os.Build
 import android.os.Bundle

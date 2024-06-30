@@ -1,4 +1,4 @@
-package com.join.development
+package com.join
 
 import android.app.Application
 import android.content.res.Configuration
